@@ -1615,3 +1615,32 @@ a {
 .cid-tgMNihpdjn .media-container-row .row-copirayt p {
   width: 100%;
 }
+.cid-OU2UMLbAyj .float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 100px;
+  background-color: #25d366;
+  color: #ffffff;
+  border-radius: 60px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+.cid-OU2UMLbAyj .my-float {
+  margin-top: 16px;
+}
+.cid-OU2UMLbAyj P {
+  color: #232323;
+}
+.cid-OU2UMLbAyj DIV {
+  color: #ffffff;
+}
+.cid-OU2UMLbAyj H10 {
+  color: #767676;
+}
+.cid-OU2UMLbAyj .hidden {
+  display: none;
+}
